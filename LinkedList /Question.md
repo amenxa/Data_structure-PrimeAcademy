@@ -54,8 +54,7 @@
 <a href = "https://leetcode.com/problems/reorder-list/solutions/">Solution</a>
 
 <h2>Q10</h2>
-<a href = ""> </a>
-<h3></h3>
-<a href = "">Solution</a>
+<h3>Rotate the linked list k times</h3>
+<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/LinkedList%20/Solutions%20/Rotate-O(n)">Solution</a>
 
 
