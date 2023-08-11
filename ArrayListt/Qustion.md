@@ -6,6 +6,5 @@
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/pascal-tringle.java">Solution </a>
 
 <h2>Q2</h2>
-
-[Rotate ArrayList  O(n)](https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/rotate1.java)
+<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/rotate1.java">Rotate ArrayList  O(n)</a>
 
