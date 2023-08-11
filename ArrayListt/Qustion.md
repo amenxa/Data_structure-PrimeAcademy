@@ -4,7 +4,7 @@
 
 [Solution](https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/pascal-tringle.java)
 
-<h2>Q2</h2>h2>
+<h2>Q2</h2>
 
 [Rotate ArrayList  O(n)](https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/rotate1.java)
 
