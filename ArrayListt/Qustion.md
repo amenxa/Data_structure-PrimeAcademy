@@ -10,5 +10,7 @@
 
 
 <h2>Q3</h2>
-<a href = "">Merge two sorted ArrayList</a>
+<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/margeLists.java">Merge two sorted ArrayList</a>
+
+<h2>Q3</h2>
 
