@@ -7,7 +7,7 @@
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/LinkedList%20/Solutions%20/Middl-linkedList.java">Solution </a>
 
 <h2>Q2</h2>
-<a href = "https://leetcode.com/problems/middle-of-the-linked-list/">  middle of the linked list </a>
+<a href = "">  Reverse  linked list  </a>
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/LinkedList%20/Solutions%20/Reverse-linkedList%20.java">Solution</a>
 
 
