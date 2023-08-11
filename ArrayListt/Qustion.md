@@ -4,6 +4,8 @@
 
 [Solution](https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/pascal-tringle.java)
 
-**_____________________________________________________**
-[Rotate ArrayList  O(n)]()
+[**_____________________________________________________**]
+
+
+[Rotate ArrayList  O(n)](https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/rotate1.java)
 
