@@ -15,6 +15,7 @@
 <h2>Q3</h2>
 <a href = "https://leetcode.com/problems/palindrome-linked-list/?fbclid=IwAR1i4gWlfbFTjsylOE_qlRgOvvK2ymE_UnH_KYUv75kRtmqdcEE22gHQNfI">Palindrome Linked List
 </a>
+<h3></h3>
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/LinkedList%20/Solutions%20/recursive-palandromi.java">recursive Solution</a>
 
 <h2>Q4</h2>
