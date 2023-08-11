@@ -14,5 +14,5 @@
 
 <h2>Q4</h2>
 
-<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/margeLists.java">Shuffle the array : Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn]. Return the array in the form [x1,y1,x2,y2,...,xn,yn]</a>
+<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/shuffle.java">Shuffle the array : Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn]. Return the array in the form [x1,y1,x2,y2,...,xn,yn]</a>
 .
