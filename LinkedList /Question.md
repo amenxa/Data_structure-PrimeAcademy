@@ -44,14 +44,14 @@
 <a href = "https://leetcode.com/problems/intersection-of-two-linked-lists/solutions/?fbclid=IwAR0FXHtlW9kaX8IRaF_00HpqCCtTtPo4n4QZNFzddyvCK_9XAzSZvegxLLo">Solution</a>
 <h2>Q8</h2>
 
-<a href = ""> </a>
+<a href = "https://leetcode.com/problems/linked-list-cycle/?fbclid=IwAR030J7Uevn7Lhb18_J-jqVGej_BvhKqySb7nuFofDvJnapqJQJ8MKb86YU">Linked List Cycle</a>
 <h3></h3>
-<a href = "">Solution</a>
+<a href = "https://leetcode.com/problems/linked-list-cycle/solutions/?fbclid=IwAR030J7Uevn7Lhb18_J-jqVGej_BvhKqySb7nuFofDvJnapqJQJ8MKb86YU ">Solution</a>
 <h2>Q9</h2>
 
-<a href = ""> </a>
+<a href = "https://leetcode.com/problems/reorder-list/description/"> reorder list</a>
 <h3></h3>
-<a href = "">Solution</a>
+<a href = "https://leetcode.com/problems/reorder-list/solutions/">Solution</a>
 
 <h2>Q10</h2>
 <a href = ""> </a>
