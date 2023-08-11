@@ -4,7 +4,7 @@
 
 <a href = "https://leetcode.com/problems/middle-of-the-linked-list/">  middle of the linked list </a>
 
-<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/pascal-tringle.java">Solution </a>
+<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/LinkedList%20/Solutions%20/Middl-linkedList.java">Solution </a>
 
 <h2>Q2</h2>
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/rotate1.java">Rotate ArrayList  O(n)</a>
