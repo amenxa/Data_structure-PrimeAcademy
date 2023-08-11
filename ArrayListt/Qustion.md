@@ -1,9 +1,9 @@
 <h1>Array List</h1>
 <h2>Q1</h2>
 
-[Pascal Tringle](https://leetcode.com/problems/pascals-triangle/) 
+<a href = "https://leetcode.com/problems/pascals-triangle/"> Pascal's Triangle</a>
 
-[Solution](https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/pascal-tringle.java)
+<a href = "https://leetcode.com/problems/pascals-triangle/">Solution </a>
 
 <h2>Q2</h2>
 
