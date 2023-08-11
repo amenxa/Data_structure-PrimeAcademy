@@ -1,4 +1,4 @@
-<h1>Array List</h1>
+<h1>Array List : Prime Academy </h1>
 <h2>Q1</h2>
 
 <a href = "https://leetcode.com/problems/pascals-triangle/"> Pascal's Triangle</a>
@@ -14,7 +14,7 @@
 
 <h2>Q4</h2>
 
-<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/shuffle.java">Shuffle the array </a>
+<a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/chang.java">chang the array </a>
 .
 <h2>Q5</h2>
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/Beautiful.java">given an Arraylist make the array beautiful (the full qustion in the solution file )</a>
