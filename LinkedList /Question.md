@@ -8,6 +8,8 @@
 
 <h2>Q2</h2>
 <a href = "https://leetcode.com/problems/reverse-linked-list/?fbclid=IwAR3Q-04CmE_ONsZRyjV9b4ycjvpBOYZR9H3NMJYEu2AhyLN8klNrcXAg1OA">  Reverse  linked list  </a>
+
+
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/LinkedList%20/Solutions%20/Reverse-linkedList%20.java">Solution</a>
 
 
