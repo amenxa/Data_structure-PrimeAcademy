@@ -8,3 +8,7 @@
 <h2>Q2</h2>
 <a href = "https://github.com/amenxa/Data_structure-PrimeAcademy/blob/main/ArrayListt/Solutions/rotate1.java">Rotate ArrayList  O(n)</a>
 
+
+<h2>Q3</h2>
+<a href = "">Merge two sorted ArrayList</a>
+
